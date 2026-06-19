@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Metrics](https://metrics.lecoq.io/wenb1n-dev?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
-![](https://stats.justsong.cn/api/csdn?id=xwb602625136&cn=true) ![](https://stats.justsong.cn/api/csdn?id=xwb602625136&cn=true&lang=zh-CN)
+![](https://stats.justsong.cn/api/csdn?id=xwb602625136&cn=true&theme=radical) ![](https://stats.justsong.cn/api/csdn?id=xwb602625136&cn=true&lang=zh-CN&theme=radical)
 
-![](https://stats.justsong.cn/api/juejin?id=2643666529423822) ![](https://stats.justsong.cn/api/juejin?id=2643666529423822&lang=zh-CN)
+![](https://stats.justsong.cn/api/juejin?id=2643666529423822&theme=radical) ![](https://stats.justsong.cn/api/juejin?id=2643666529423822&lang=zh-CN&theme=radical)
